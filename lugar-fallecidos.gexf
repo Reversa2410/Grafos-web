@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="directed">
+    <attributes class="node">
+      <attribute id="rawSize" title="rawSize" type="integer"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="rawWeight" title="rawWeight" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="Lugar" label="Lugar">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="873.6638" y="-83.81975"/>
+      </node>
+      <node id="Fallecidos" label="Fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="873.47736" y="-90.14275"/>
+      </node>
+      <node id="San Salvador" label="San Salvador">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-10.438889" y="5.698163"/>
+      </node>
+      <node id="2 fallecidos" label="2 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-6.8605847" y="18.290375"/>
+      </node>
+      <node id="1 fallecido" label="1 fallecido">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-0.0016081517" y="-0.033038635"/>
+      </node>
+      <node id="4 fallecidos" label="4 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-30.53028" y="0.5512095"/>
+      </node>
+      <node id="Ahuachapán" label="Ahuachapán">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="3.7706366" y="13.895381"/>
+      </node>
+      <node id="San Vicente" label="San Vicente">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="12.464859" y="4.0263934"/>
+      </node>
+      <node id="Sonsonate" label="Sonsonate">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-2.0954795" y="6.6614966"/>
+      </node>
+      <node id="Santa Ana" label="Santa Ana">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="4.105281" y="4.722476"/>
+      </node>
+      <node id="San Miguel" label="San Miguel">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="8.081606" y="-5.1527634"/>
+      </node>
+      <node id="Usulután" label="Usulután">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-8.492608" y="-4.101411"/>
+      </node>
+      <node id="Morazán" label="Morazán">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="11.214355" y="25.762203"/>
+      </node>
+      <node id="La Unión" label="La Unión">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="15.947873" y="-12.717395"/>
+      </node>
+      <node id="La Paz" label="La Paz">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="3.0492802" y="-12.682115"/>
+      </node>
+      <node id="Chalatenango" label="Chalatenango">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-20.819157" y="-5.129561"/>
+      </node>
+      <node id="Cuscatlán" label="Cuscatlán">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="13.073949" y="12.620507"/>
+      </node>
+      <node id="3 fallecidos" label="3 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-0.4212424" y="-28.522388"/>
+      </node>
+      <node id="2 fallecido" label="2 fallecido">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-51.17896" y="9.287073"/>
+      </node>
+      <node id="11 fallecidos" label="11 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-26.0573" y="43.923367"/>
+      </node>
+      <node id="15 fallecidos" label="15 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-36.1584" y="37.042225"/>
+      </node>
+      <node id="Cabañas" label="Cabañas">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="20.120533" y="-4.5291314"/>
+      </node>
+      <node id="La Libertad" label="La Libertad">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-3.610001" y="-13.087486"/>
+      </node>
+      <node id="Carretera a Comalapa" label="Carretera a Comalapa">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-29.400742" y="-32.135666"/>
+      </node>
+      <node id="Animal" label="Animal">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-17.194431" y="-50.595905"/>
+      </node>
+      <node id="La libertad" label="La libertad">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="42.923992" y="5.9430723"/>
+      </node>
+      <node id="La Liberad" label="La Liberad">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="4.917102" y="-46.719524"/>
+      </node>
+      <node id="No específica" label="No específica">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-48.262566" y="19.90332"/>
+      </node>
+      <node id="1 lesionado" label="1 lesionado">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-43.290096" y="29.022507"/>
+      </node>
+      <node id="Carretera Panamericana; Usulután" label="Carretera Panamericana; Usulután">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="28.42144" y="-32.99982"/>
+      </node>
+      <node id="Acajutla" label="Acajutla">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="37.56805" y="-21.543797"/>
+      </node>
+      <node id="5 lesionados" label="5 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="-50.812927" y="-3.9047666"/>
+      </node>
+      <node id="Ilopango" label="Ilopango">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="550.4672" y="687.7228"/>
+      </node>
+      <node id="2 lesionados" label="2 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="546.2274" y="692.3692"/>
+      </node>
+      <node id="5 fallecidos" label="5 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="27.03529" y="56.224823"/>
+      </node>
+      <node id="carretera a Opico" label="carretera a Opico">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="38.445183" y="20.977316"/>
+      </node>
+      <node id="Atecozol" label="Atecozol">
+        <attvalues>
+          <attvalue for="rawSize" value="4"/>
+        </attvalues>
+        <viz:color r="133" g="142" b="255"/>
+        <viz:size value="4"/>
+        <viz:position x="42.553192" y="-8.3624735"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Lugar" target="Fallecidos" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="1" source="San Salvador" target="2 fallecidos" weight="1.489795918367347">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.489795918367347"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="3" source="San Salvador" target="1 fallecido" weight="5">
+        <attvalues>
+          <attvalue for="rawWeight" value="5"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="5" source="San Salvador" target="4 fallecidos" weight="1.0816326530612246">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.0816326530612246"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="6" source="Ahuachapán" target="1 fallecido" weight="1.4081632653061225">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4081632653061225"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="7" source="San Vicente" target="1 fallecido" weight="1.4081632653061225">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4081632653061225"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="9" source="Sonsonate" target="1 fallecido" weight="2.387755102040816">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.387755102040816"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="10" source="Santa Ana" target="1 fallecido" weight="2.5510204081632653">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.5510204081632653"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="15" source="San Miguel" target="1 fallecido" weight="1.489795918367347">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.489795918367347"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="20" source="Usulután" target="1 fallecido" weight="1.816326530612245">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.816326530612245"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="21" source="Sonsonate" target="2 fallecidos" weight="1.3265306122448979">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.3265306122448979"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="22" source="Morazán" target="1 fallecido" weight="1.2448979591836735">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.2448979591836735"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="23" source="Ahuachapán" target="2 fallecidos" weight="1">
+        <attvalues>
+          <attvalue for="rawWeight" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="24" source="Santa Ana" target="2 fallecidos" weight="1">
+        <attvalues>
+          <attvalue for="rawWeight" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="26" source="La Unión" target="1 fallecido" weight="1.0816326530612246">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.0816326530612246"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="27" source="Morazán" target="2 fallecidos" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="31" source="La Paz" target="1 fallecido" weight="1.7346938775510203">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.7346938775510203"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="34" source="Chalatenango" target="1 fallecido" weight="1.2448979591836735">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.2448979591836735"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="38" source="Usulután" target="2 fallecidos" weight="1.0816326530612246">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.0816326530612246"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="42" source="Cuscatlán" target="2 fallecidos" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="48" source="Usulután" target="3 fallecidos" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="51" source="La Paz" target="3 fallecidos" weight="1.0816326530612246">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.0816326530612246"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="55" source="San Salvador" target="2 fallecido" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="58" source="San Salvador" target="11 fallecidos" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="59" source="San Salvador" target="15 fallecidos" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="68" source="Sonsonate" target="3 fallecidos" weight="1">
+        <attvalues>
+          <attvalue for="rawWeight" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="71" source="Cabañas" target="1 fallecido" weight="1.0816326530612246">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.0816326530612246"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="90" source="Cuscatlán" target="1 fallecido" weight="1.2448979591836735">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.2448979591836735"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="93" source="La Libertad" target="1 fallecido" weight="2.061224489795918">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.061224489795918"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="95" source="Carretera a Comalapa" target="1 fallecido" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="102" source="La Libertad" target="3 fallecidos" weight="1">
+        <attvalues>
+          <attvalue for="rawWeight" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="116" source="La Libertad" target="Animal" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="120" source="La libertad" target="1 fallecido" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="126" source="La Liberad" target="3 fallecidos" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="131" source="La Libertad" target="2 fallecidos" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="138" source="La Liberad" target="1 fallecido" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="144" source="San Salvador" target="No específica" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="147" source="San Vicente" target="2 fallecidos" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="153" source="San Salvador" target="1 lesionado" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="160" source="Carretera Panamericana; Usulután" target="1 fallecido" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="162" source="Chalatenango" target="4 fallecidos" weight="1">
+        <attvalues>
+          <attvalue for="rawWeight" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="164" source="Acajutla" target="1 fallecido" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="166" source="San Salvador" target="5 lesionados" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="167" source="Ilopango" target="2 lesionados" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="170" source="Morazán" target="5 fallecidos" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="212" source="carretera a Opico" target="1 fallecido" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="215" source="Atecozol" target="1 fallecido" weight="2">
+        <attvalues>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
