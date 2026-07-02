@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="categoria" title="categoria" type="string"/>
+      <attribute id="comentarios_o_likes" title="comentarios_o_likes" type="integer"/>
+      <attribute id="degree" title="degree" type="integer"/>
+      <attribute id="rawSize" title="rawSize" type="integer"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="categoria" title="categoria" type="string"/>
+      <attribute id="rawWeight" title="rawWeight" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="video_7637336833998802184" label="7637336833998802184">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="223" g="137" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-140.56229" y="139.85936"/>
+      </node>
+      <node id="tema_Exceso_de_velocidad" label="Exceso de velocidad">
+        <attvalues>
+          <attvalue for="categoria" value="Tema"/>
+          <attvalue for="degree" value="11"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="10"/>
+        <viz:position x="-62.663715" y="64.99544"/>
+      </node>
+      <node id="video_7294349654702001413" label="7294349654702001413">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="19"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-170.73737" y="98.78151"/>
+      </node>
+      <node id="video_7467944789158333742" label="7467944789158333742">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="223" g="137" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="182.34375" y="161.95834"/>
+      </node>
+      <node id="tema_Consumo_de_alcohol" label="Consumo de alcohol">
+        <attvalues>
+          <attvalue for="categoria" value="Tema"/>
+          <attvalue for="degree" value="18"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="10"/>
+        <viz:position x="201.0015260330578" y="91.51232159286526"/>
+      </node>
+      <node id="video_7398572600512843013" label="7398572600512843013">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="109"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="3.3408682" y="-83.415276"/>
+      </node>
+      <node id="tema_Distraccion_al_conducir" label="Distraccion al conducir">
+        <attvalues>
+          <attvalue for="categoria" value="Tema"/>
+          <attvalue for="degree" value="27"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="10"/>
+        <viz:position x="90.071266" y="-85.729004"/>
+      </node>
+      <node id="video_7478126439066504494" label="7478126439066504494">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="131"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-16.664602" y="-31.374784"/>
+      </node>
+      <node id="tema_Maniobra_peligrosa" label="Maniobra peligrosa">
+        <attvalues>
+          <attvalue for="categoria" value="Tema"/>
+          <attvalue for="degree" value="27"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="10"/>
+        <viz:position x="21.492071" y="-2.2505922"/>
+      </node>
+      <node id="video_7472213159856852270" label="7472213159856852270">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="223" g="137" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-126.27425" y="-29.119858"/>
+      </node>
+      <node id="video_7476099347474779438" label="7476099347474779438">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="66"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-81.47522" y="7.5270977"/>
+      </node>
+      <node id="tema_Imprudencia_peatonal" label="Imprudencia peatonal">
+        <attvalues>
+          <attvalue for="categoria" value="Tema"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="10"/>
+        <viz:position x="-11.283159" y="105.38071"/>
+      </node>
+      <node id="video_7631760402631773458" label="7631760402631773458">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="20"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="115" g="192" b="0"/>
+        <viz:size value="10"/>
+        <viz:position x="161.40312" y="-196.75305"/>
+      </node>
+      <node id="video_7616503245619449108" label="7616503245619449108">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="2"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="0" g="196" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-34.661438" y="39.960083"/>
+      </node>
+      <node id="video_7601359004010564884" label="7601359004010564884">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="262"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-82.24078" y="-77.24466"/>
+      </node>
+      <node id="video_7333421522620665093" label="7333421522620665093">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="187"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="206.01927" y="-157.85768"/>
+      </node>
+      <node id="video_7633534275471592712" label="7633534275471592712">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="210"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-44.78266" y="-13.479464"/>
+      </node>
+      <node id="video_7596378152683851028" label="7596378152683851028">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="120"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="23.02002" y="125.405624"/>
+      </node>
+      <node id="tema_Perdida_de_control" label="Perdida de control">
+        <attvalues>
+          <attvalue for="categoria" value="Tema"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="10"/>
+        <viz:position x="-45.411255" y="140.53708"/>
+      </node>
+      <node id="video_7559335215441644811" label="7559335215441644811">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="67"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-44.056488" y="-82.18791"/>
+      </node>
+      <node id="video_7579656785812884767" label="7579656785812884767">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="6"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-29.087587" y="69.35368"/>
+      </node>
+      <node id="video_7622796716768546069" label="7622796716768546069">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="36"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-135.83678" y="45.143757"/>
+      </node>
+      <node id="video_7465558874431524101" label="7465558874431524101">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="47"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="78.794304" y="-184.2994"/>
+      </node>
+      <node id="video_7356028567563603206" label="7356028567563603206">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="20"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="115" g="192" b="0"/>
+        <viz:size value="10"/>
+        <viz:position x="-104.495636" y="156.81894"/>
+      </node>
+      <node id="video_7453369766275730693" label="7453369766275730693">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="20"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="115" g="192" b="0"/>
+        <viz:size value="10"/>
+        <viz:position x="123.16942130642084" y="16.190321066109888"/>
+      </node>
+      <node id="video_7453362422460517637" label="7453362422460517637">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="23"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="110.417206" y="148.72298"/>
+      </node>
+      <node id="video_7449898078879976709" label="7449898078879976709">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="69"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="76.415184" y="-5.1978087"/>
+      </node>
+      <node id="video_7282828646576901382" label="7282828646576901382">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="46"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-37.867043" y="-56.446445"/>
+      </node>
+      <node id="video_7276984662159805702" label="7276984662159805702">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="70"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="163.6908" y="-52.106342"/>
+      </node>
+      <node id="video_7453934729608318213" label="7453934729608318213">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="27"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="255" g="136" b="5"/>
+        <viz:size value="10"/>
+        <viz:position x="183.87135" y="27.657728"/>
+      </node>
+      <node id="video_7318295589437951238" label="7318295589437951238">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="40"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="82.377014" y="123.14032"/>
+      </node>
+      <node id="video_7462923719976013061" label="7462923719976013061">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="13"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="76" g="70" b="62"/>
+        <viz:size value="10"/>
+        <viz:position x="-51.133904" y="-124.97997"/>
+      </node>
+      <node id="video_7638293509853695250" label="7638293509853695250">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="12"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-97.49492" y="32.92972"/>
+      </node>
+      <node id="video_7634906262949334290" label="7634906262949334290">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="2"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="0" g="196" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="3.488228" y="51.509605"/>
+      </node>
+      <node id="video_7368976790536097030" label="7368976790536097030">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="50"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-65.292725" y="-44.374588"/>
+      </node>
+      <node id="video_7340704924457569541" label="7340704924457569541">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="78"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="0" g="189" b="148"/>
+        <viz:size value="10"/>
+        <viz:position x="14.731239" y="-169.6344"/>
+      </node>
+      <node id="tema_Invasion_de_carril" label="Invasion de carril">
+        <attvalues>
+          <attvalue for="categoria" value="Tema"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="10"/>
+        <viz:position x="36.150032" y="-202.58043"/>
+      </node>
+      <node id="video_7637728589135367444" label="7637728589135367444">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="78"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="0" g="189" b="148"/>
+        <viz:size value="10"/>
+        <viz:position x="112.01333" y="-183.06755"/>
+      </node>
+      <node id="video_7519184051593383186" label="7519184051593383186">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="63"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-51.076054" y="101.00761"/>
+      </node>
+      <node id="video_7123746484205423877" label="7123746484205423877">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="20"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="115" g="192" b="0"/>
+        <viz:size value="10"/>
+        <viz:position x="159.1794" y="-98.01144"/>
+      </node>
+      <node id="video_7611791148620795143" label="7611791148620795143">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="65"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-59.14632" y="27.548386"/>
+      </node>
+      <node id="video_7523379588123217157" label="7523379588123217157">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="381"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-110.30541" y="-54.836174"/>
+      </node>
+      <node id="video_7316101329514958086" label="7316101329514958086">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="4"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="211" g="179" b="176"/>
+        <viz:size value="10"/>
+        <viz:position x="293.5412038596629" y="163.67414929275185"/>
+      </node>
+      <node id="video_7561862713706663180" label="7561862713706663180">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="16"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="16.219532" y="156.18881"/>
+      </node>
+      <node id="video_6971892800468176133" label="6971892800468176133">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="30"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="255" g="85" b="132"/>
+        <viz:size value="10"/>
+        <viz:position x="41.543762" y="-149.45053"/>
+      </node>
+      <node id="video_7629769919734828289" label="7629769919734828289">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="11"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="345.29870556977096" y="103.51153"/>
+      </node>
+      <node id="video_7616870496226856212" label="7616870496226856212">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="32"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="72.655464" y="63.324615"/>
+      </node>
+      <node id="tema_Desperfecto_mecanico" label="Desperfecto mecanico">
+        <attvalues>
+          <attvalue for="categoria" value="Tema"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="10"/>
+        <viz:position x="24.038527" y="67.66566"/>
+      </node>
+      <node id="video_7505139186631052599" label="7505139186631052599">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="13"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="76" g="70" b="62"/>
+        <viz:size value="10"/>
+        <viz:position x="-9.522865" y="-119.197365"/>
+      </node>
+      <node id="tema_Irrespeto_a_senales" label="Irrespeto a senales">
+        <attvalues>
+          <attvalue for="categoria" value="Tema"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="10"/>
+        <viz:position x="-14.3181" y="-175.01422"/>
+      </node>
+      <node id="video_7634796944530869525" label="7634796944530869525">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="1"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="223" g="137" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-79.526054" y="-109.51936"/>
+      </node>
+      <node id="video_7638450908463992084" label="7638450908463992084">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="9"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-13.797609" y="84.34917"/>
+      </node>
+      <node id="video_7395234420187254022" label="7395234420187254022">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="7"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-0.27666432" y="-28.19778"/>
+      </node>
+      <node id="video_7504354552796318981" label="7504354552796318981">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="42"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="46.0106" y="58.942146"/>
+      </node>
+      <node id="video_7580359784889634060" label="7580359784889634060">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="153"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-171.08571" y="67.00027"/>
+      </node>
+      <node id="video_7629719214563085584" label="7629719214563085584">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="27"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="255" g="136" b="5"/>
+        <viz:size value="10"/>
+        <viz:position x="56.98448" y="3.1950345"/>
+      </node>
+      <node id="video_7411582459785022726" label="7411582459785022726">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="51"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="55.207344" y="28.688839"/>
+      </node>
+      <node id="video_7632054164633292039" label="7632054164633292039">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="347"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="5.750519" y="-63.095566"/>
+      </node>
+      <node id="video_7637595999946460424" label="7637595999946460424">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="10"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="182.1328" y="-174.80614"/>
+      </node>
+      <node id="video_7636469629904260373" label="7636469629904260373">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="35"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-12.395396" y="-62.233704"/>
+      </node>
+      <node id="video_7340428311874637062" label="7340428311874637062">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="30"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="255" g="85" b="132"/>
+        <viz:size value="10"/>
+        <viz:position x="12.502774" y="-120.89106"/>
+      </node>
+      <node id="video_7568612592365751608" label="7568612592365751608">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="57"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="60.149994" y="91.32461"/>
+      </node>
+      <node id="video_7564854177315278091" label="7564854177315278091">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="157"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="38.905067" y="-21.922516"/>
+      </node>
+      <node id="video_7465517963093773574" label="7465517963093773574">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="349"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="353.6603303560075" y="38.08172898216314"/>
+      </node>
+      <node id="video_7514832115289115946" label="7514832115289115946">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="227"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="164.6829" y="-9.500266"/>
+      </node>
+      <node id="video_7454663864035085573" label="7454663864035085573">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="333"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="191.98152" y="-17.651577"/>
+      </node>
+      <node id="video_7531536091661323576" label="7531536091661323576">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="354"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="-30.605846" y="-139.09366"/>
+      </node>
+      <node id="video_7519686196260277560" label="7519686196260277560">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="217"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="113.572426" y="-19.9638"/>
+      </node>
+      <node id="video_7588264388709174539" label="7588264388709174539">
+        <attvalues>
+          <attvalue for="categoria" value="Video"/>
+          <attvalue for="comentarios_o_likes" value="44"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="10"/>
+        <viz:position x="301.20334994040036" y="16.295363880379426"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="video_7637336833998802184" target="tema_Exceso_de_velocidad" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="1" source="video_7294349654702001413" target="tema_Exceso_de_velocidad" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="2" source="video_7467944789158333742" target="tema_Consumo_de_alcohol" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="3" source="video_7398572600512843013" target="tema_Distraccion_al_conducir" weight="2.888888888888889">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.888888888888889"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="4" source="video_7478126439066504494" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="5" source="video_7478126439066504494" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="6" source="video_7472213159856852270" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="7" source="video_7476099347474779438" target="tema_Maniobra_peligrosa" weight="3.7777777777777777">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="3.7777777777777777"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="8" source="video_7476099347474779438" target="tema_Exceso_de_velocidad" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="9" source="video_7476099347474779438" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="10" source="video_7476099347474779438" target="tema_Imprudencia_peatonal" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="11" source="video_7631760402631773458" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="12" source="video_7616503245619449108" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="13" source="video_7601359004010564884" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="14" source="video_7601359004010564884" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="15" source="video_7333421522620665093" target="tema_Distraccion_al_conducir" weight="2.6666666666666665">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.6666666666666665"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="16" source="video_7633534275471592712" target="tema_Maniobra_peligrosa" weight="2.6666666666666665">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.6666666666666665"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="17" source="video_7633534275471592712" target="tema_Exceso_de_velocidad" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="18" source="video_7596378152683851028" target="tema_Perdida_de_control" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="19" source="video_7596378152683851028" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="20" source="video_7596378152683851028" target="tema_Imprudencia_peatonal" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="21" source="video_7559335215441644811" target="tema_Distraccion_al_conducir" weight="2.6666666666666665">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.6666666666666665"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="22" source="video_7559335215441644811" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="23" source="video_7579656785812884767" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="24" source="video_7622796716768546069" target="tema_Exceso_de_velocidad" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="25" source="video_7622796716768546069" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="26" source="video_7465558874431524101" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="27" source="video_7356028567563603206" target="tema_Exceso_de_velocidad" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="28" source="video_7453369766275730693" target="tema_Consumo_de_alcohol" weight="2.2222222222222223">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.2222222222222223"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="29" source="video_7453362422460517637" target="tema_Consumo_de_alcohol" weight="2.2222222222222223">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.2222222222222223"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="30" source="video_7449898078879976709" target="tema_Consumo_de_alcohol" weight="5.333333333333333">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="5.333333333333333"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="31" source="video_7449898078879976709" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="32" source="video_7282828646576901382" target="tema_Distraccion_al_conducir" weight="2.2222222222222223">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.2222222222222223"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="33" source="video_7282828646576901382" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="34" source="video_7276984662159805702" target="tema_Distraccion_al_conducir" weight="3.7777777777777777">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="3.7777777777777777"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="35" source="video_7453934729608318213" target="tema_Consumo_de_alcohol" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="36" source="video_7318295589437951238" target="tema_Consumo_de_alcohol" weight="2.2222222222222223">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.2222222222222223"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="37" source="video_7318295589437951238" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="38" source="video_7462923719976013061" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="39" source="video_7638293509853695250" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="40" source="video_7638293509853695250" target="tema_Exceso_de_velocidad" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="41" source="video_7634906262949334290" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="42" source="video_7368976790536097030" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="43" source="video_7368976790536097030" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="44" source="video_7340704924457569541" target="tema_Invasion_de_carril" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="45" source="video_7340704924457569541" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="46" source="video_7637728589135367444" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="47" source="video_7519184051593383186" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="48" source="video_7519184051593383186" target="tema_Exceso_de_velocidad" weight="2.6666666666666665">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.6666666666666665"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="49" source="video_7519184051593383186" target="tema_Perdida_de_control" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="50" source="video_7123746484205423877" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="51" source="video_7611791148620795143" target="tema_Exceso_de_velocidad" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="52" source="video_7611791148620795143" target="tema_Maniobra_peligrosa" weight="2.2222222222222223">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.2222222222222223"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="53" source="video_7523379588123217157" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="54" source="video_7316101329514958086" target="tema_Consumo_de_alcohol" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="55" source="video_7561862713706663180" target="tema_Imprudencia_peatonal" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="56" source="video_6971892800468176133" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="57" source="video_7629769919734828289" target="tema_Consumo_de_alcohol" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="58" source="video_7616870496226856212" target="tema_Exceso_de_velocidad" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="59" source="video_7616870496226856212" target="tema_Consumo_de_alcohol" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="60" source="video_7616870496226856212" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="61" source="video_7616870496226856212" target="tema_Desperfecto_mecanico" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="62" source="video_7505139186631052599" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="63" source="video_7505139186631052599" target="tema_Irrespeto_a_senales" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="64" source="video_7634796944530869525" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="65" source="video_7638450908463992084" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="66" source="video_7395234420187254022" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="67" source="video_7395234420187254022" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="68" source="video_7504354552796318981" target="tema_Consumo_de_alcohol" weight="2.2222222222222223">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.2222222222222223"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="69" source="video_7504354552796318981" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="70" source="video_7580359784889634060" target="tema_Exceso_de_velocidad" weight="2.2222222222222223">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.2222222222222223"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="71" source="video_7629719214563085584" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="72" source="video_7629719214563085584" target="tema_Consumo_de_alcohol" weight="3.111111111111111">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="3.111111111111111"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="73" source="video_7411582459785022726" target="tema_Consumo_de_alcohol" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="74" source="video_7411582459785022726" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="75" source="video_7632054164633292039" target="tema_Distraccion_al_conducir" weight="4.222222222222222">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="4.222222222222222"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="76" source="video_7632054164633292039" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="77" source="video_7637595999946460424" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="78" source="video_7636469629904260373" target="tema_Distraccion_al_conducir" weight="2.4444444444444446">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.4444444444444446"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="79" source="video_7636469629904260373" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="80" source="video_7340428311874637062" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="81" source="video_7568612592365751608" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="82" source="video_7568612592365751608" target="tema_Consumo_de_alcohol" weight="2.6666666666666665">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.6666666666666665"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="83" source="video_7564854177315278091" target="tema_Maniobra_peligrosa" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="84" source="video_7465517963093773574" target="tema_Consumo_de_alcohol" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="85" source="video_7514832115289115946" target="tema_Consumo_de_alcohol" weight="2.2222222222222223">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2.2222222222222223"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="86" source="video_7454663864035085573" target="tema_Consumo_de_alcohol" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="87" source="video_7531536091661323576" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="88" source="video_7531536091661323576" target="tema_Irrespeto_a_senales" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="89" source="video_7519686196260277560" target="tema_Consumo_de_alcohol" weight="6">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="90" source="video_7519686196260277560" target="tema_Distraccion_al_conducir" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="91" source="video_7588264388709174539" target="tema_Consumo_de_alcohol" weight="2">
+        <attvalues>
+          <attvalue for="categoria" value="Video-Tema"/>
+          <attvalue for="rawWeight" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
