@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="directed">
+    <attributes class="node">
+      <attribute id="rawSize" title="rawSize" type="integer"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="rawWeight" title="rawWeight" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="Vehículo involucrado" label="Vehículo involucrado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="57.27838202731385" y="-637.3921423864982"/>
+      </node>
+      <node id="Lesionados" label="Lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="169.66894063030225" y="-565.517317343299"/>
+      </node>
+      <node id="Vehículo liviano" label="Vehículo liviano">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-65.92649985901976" y="-192.8713676053189"/>
+      </node>
+      <node id="1 lesionado" label="1 lesionado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-604.6347413720372" y="-104.52143643874008"/>
+      </node>
+      <node id="Vehículo liviano / vehículo pesado" label="Vehículo liviano / vehículo pesado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-121.66234240682049" y="-333.2718044255971"/>
+      </node>
+      <node id="10 lesionados" label="10 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-631.2928124306798" y="-499.26045422321164"/>
+      </node>
+      <node id="Vehículo pesado" label="Vehículo pesado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-275.8866185935197" y="-479.9405006506792"/>
+      </node>
+      <node id="18 lesionados" label="18 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-201.92382457070352" y="-801.4605235322596"/>
+      </node>
+      <node id="6 lesionados" label="6 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="51.50053019723845" y="-494.1318891778351"/>
+      </node>
+      <node id="Moto / Vehículo pesado" label="Moto / Vehículo pesado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-1024.9489261482645" y="-222.75127004996762"/>
+      </node>
+      <node id="5 lesionados" label="5 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-612.7619358795885" y="-289.96773212466894"/>
+      </node>
+      <node id="2 lesionados" label="2 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-620.9252154878287" y="-196.2259713389555"/>
+      </node>
+      <node id="Moto / vehículo liviano" label="Moto / vehículo liviano">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-324.79784188559853" y="68.35881946984833"/>
+      </node>
+      <node id="Motocicletas" label="Motocicletas">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-352.5571181278174" y="102.14176282856133"/>
+      </node>
+      <node id="3 lesionados" label="3 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-619.2472328424609" y="-416.74852945929683"/>
+      </node>
+      <node id="9 lesionados" label="9 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-412.97642901375895" y="-794.3282107387323"/>
+      </node>
+      <node id="4 lesionados" label="4 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-634.1365915890581" y="-356.8067341543627"/>
+      </node>
+      <node id="Moto/ Vehículo liviano" label="Moto/ Vehículo liviano">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-404.8156049210983" y="-284.3803074106318"/>
+      </node>
+      <node id="Moto" label="Moto">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-776.0679518819617" y="-130.78856771046884"/>
+      </node>
+      <node id="Vehículos liviano" label="Vehículos liviano">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-875.2198394655228" y="-542.2188420687751"/>
+      </node>
+      <node id="Vehículo pesado / Moto" label="Vehículo pesado / Moto">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-812.3201080184874" y="-372.2598774758089"/>
+      </node>
+      <node id="11 lesionados" label="11 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-428.72013571828575" y="-626.5566041703171"/>
+      </node>
+      <node id="moto / Vehículo liviano /Vehículo pesado" label="moto / Vehículo liviano /Vehículo pesado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-941.4084122893755" y="-517.467927643266"/>
+      </node>
+      <node id="Vehículo pesado / moto" label="Vehículo pesado / moto">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="235.17728210911747" y="-401.6282082489335"/>
+      </node>
+      <node id="Moto / Vehículo liviano" label="Moto / Vehículo liviano">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="231.8898209828206" y="-42.191724201459365"/>
+      </node>
+      <node id="Moto/Vehículo liviano" label="Moto/Vehículo liviano">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-259.25303963745273" y="29.08578978169635"/>
+      </node>
+      <node id="Motos" label="Motos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-746.8445347788673" y="-580.5251242093593"/>
+      </node>
+      <node id="Vehículo pesado / Vehículo liviano" label="Vehículo pesado / Vehículo liviano">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-757.4307740599952" y="-225.8915964649698"/>
+      </node>
+      <node id="vehículo pesado" label="vehículo pesado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-429.913969921016" y="160.68613092575208"/>
+      </node>
+      <node id="Vehículo liviano / moto" label="Vehículo liviano / moto">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-555.33164255216" y="4.893767650540923"/>
+      </node>
+      <node id="Vehículo liviano/rastra" label="Vehículo liviano/rastra">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="19.141124000943563" y="-302.42440514236654"/>
+      </node>
+      <node id="Animal" label="Animal">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="135.66339366546794" y="-165.68948843456963"/>
+      </node>
+      <node id="Vehículo liviano / Vehículo pesado" label="Vehículo liviano / Vehículo pesado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-188.19395934945211" y="-62.82288065899055"/>
+      </node>
+      <node id="Vehículo pesasdo/ Vehículo liviano / moto" label="Vehículo pesasdo/ Vehículo liviano / moto">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-810.2970921134637" y="-309.8733148222016"/>
+      </node>
+      <node id="12 lesionados" label="12 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-85.07750465598951" y="-615.2014464647473"/>
+      </node>
+      <node id="8 lesionados" label="8 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="207.18849059842393" y="-302.98522793687926"/>
+      </node>
+      <node id="Vehículo pesado / Vehículo pesado" label="Vehículo pesado / Vehículo pesado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-706.4721520877048" y="-696.3045801646514"/>
+      </node>
+      <node id="1 fallecido" label="1 fallecido">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-724.9684507552524" y="-458.4036736642306"/>
+      </node>
+      <node id="Vehículo liviano / Vehículo pesado / moto" label="Vehículo liviano / Vehículo pesado / moto">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-921.8424746299462" y="-12.212754009235141"/>
+      </node>
+      <node id="14 lesionados" label="14 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-827.6390461321771" y="47.612957092393785"/>
+      </node>
+      <node id="21 lesionados" label="21 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-421.4975365757797" y="-561.5167403421359"/>
+      </node>
+      <node id="7 lesionados" label="7 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-267.18196572750765" y="-728.8963578465043"/>
+      </node>
+      <node id="Vehículos livano" label="Vehículos livano">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-783.2556325611615" y="-257.81033295820123"/>
+      </node>
+      <node id="19 lesionados" label="19 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-171.3667101007913" y="-740.7034268729151"/>
+      </node>
+      <node id="15 lesionados" label="15 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-326.83433713606223" y="-560.3044950514101"/>
+      </node>
+      <node id="Vehículos livianos" label="Vehículos livianos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-702.6939317211634" y="-35.51010781829481"/>
+      </node>
+      <node id="2 lesionado" label="2 lesionado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="301.7717959059505" y="-239.3006797623991"/>
+      </node>
+      <node id="5 lesionado" label="5 lesionado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-302.6253170221736" y="-638.1884125862758"/>
+      </node>
+      <node id="4 lesionado" label="4 lesionado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="243" g="0" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-620.2372080059826" y="112.15632958662209"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Vehículo involucrado" target="Lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="1" source="Vehículo liviano" target="1 lesionado" weight="12">
+        <attvalues>
+          <attvalue for="rawWeight" value="12"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="2" source="Vehículo liviano / vehículo pesado" target="10 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="3" source="Vehículo pesado" target="18 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="4" source="Vehículo pesado" target="6 lesionados" weight="3.3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="5" source="Moto / Vehículo pesado" target="1 lesionado" weight="3.6">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="6" source="Vehículo liviano / vehículo pesado" target="5 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="7" source="Vehículo pesado" target="2 lesionados" weight="3.9">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.9"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="8" source="Moto / vehículo liviano" target="1 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="10" source="Moto / Vehículo pesado" target="2 lesionados" weight="3.6">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="11" source="Motocicletas" target="1 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="12" source="Vehículo liviano" target="3 lesionados" weight="5.4">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.4"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="14" source="Vehículo pesado" target="9 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="16" source="Vehículo liviano / vehículo pesado" target="1 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="17" source="Vehículo liviano" target="2 lesionados" weight="8.7">
+        <attvalues>
+          <attvalue for="rawWeight" value="8.7"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="18" source="Vehículo liviano" target="4 lesionados" weight="4.2">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="19" source="Vehículo pesado" target="1 lesionado" weight="5.699999999999999">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.699999999999999"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="23" source="Moto/ Vehículo liviano" target="1 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="24" source="Vehículo liviano / vehículo pesado" target="6 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="26" source="Moto" target="2 lesionados" weight="3.9">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.9"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="27" source="Vehículos liviano" target="5 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="28" source="Moto" target="1 lesionado" weight="5.699999999999999">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.699999999999999"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="30" source="Vehículo pesado" target="3 lesionados" weight="3.9">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.9"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="35" source="Vehículo pesado / Moto" target="2 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="37" source="Vehículo pesado" target="11 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="38" source="moto / Vehículo liviano /Vehículo pesado" target="5 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="39" source="Vehículo pesado / moto" target="3 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="46" source="Vehículo liviano" target="6 lesionados" weight="3.6">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="47" source="Moto / Vehículo liviano" target="1 lesionado" weight="3.9">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.9"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="50" source="Moto/Vehículo liviano" target="1 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="52" source="Motos" target="3 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="55" source="Vehículo pesado / Vehículo liviano" target="2 lesionados" weight="3.9">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.9"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="58" source="vehículo pesado" target="1 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="60" source="Vehículo liviano" target="5 lesionados" weight="3.3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="69" source="Vehículo liviano / moto" target="1 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="70" source="Vehículo pesado" target="5 lesionados" weight="3.3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="71" source="Vehículo liviano/rastra" target="1 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="83" source="Vehículo liviano" target="Animal" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="87" source="Vehículo liviano / Vehículo pesado" target="1 lesionado" weight="4.2">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="88" source="Vehículo liviano / Vehículo pesado" target="3 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="90" source="Vehículo pesasdo/ Vehículo liviano / moto" target="2 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="92" source="Moto/ Vehículo liviano" target="4 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="93" source="Vehículo liviano" target="12 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="94" source="Vehículo liviano" target="8 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="105" source="Moto / Vehículo pesado" target="3 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="109" source="Vehículo pesado / Vehículo pesado" target="4 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="116" source="Vehículo liviano" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="119" source="Vehículo pesado / moto" target="2 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="125" source="Vehículo liviano / Vehículo pesado" target="5 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="126" source="Vehículo pesado" target="12 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="127" source="Vehículo liviano / Vehículo pesado / moto" target="14 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="129" source="Vehículo pesado" target="21 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="131" source="Vehículo pesado" target="7 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="144" source="Vehículos livano" target="2 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="150" source="Moto / Vehículo liviano" target="3 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="155" source="Vehículo pesado" target="4 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="160" source="Vehículo pesado" target="8 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="167" source="Vehículo pesado" target="19 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="171" source="Vehículo pesado" target="15 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="172" source="Moto / Vehículo liviano" target="5 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="175" source="Vehículo liviano / Vehículo pesado" target="10 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="177" source="Moto / Vehículo pesado" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="181" source="Vehículo liviano" target="10 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="184" source="Vehículo liviano / Vehículo pesado" target="2 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="189" source="Vehículos livianos" target="5 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="190" source="Vehículos livianos" target="1 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="196" source="Vehículo liviano" target="2 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="197" source="Vehículo pesado" target="5 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="200" source="Vehículo liviano / Vehículo pesado" target="4 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
