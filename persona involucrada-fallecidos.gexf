@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="directed">
+    <attributes class="node">
+      <attribute id="rawSize" title="rawSize" type="integer"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="rawWeight" title="rawWeight" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="Persona involucrada" label="Persona involucrada">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-336.15520349960593" y="243.85345510730076"/>
+      </node>
+      <node id="Fallecidos" label="Fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-284.9687615699874" y="314.87704915756115"/>
+      </node>
+      <node id="Conductores" label="Conductores">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="51.050391144405786" y="75.02146249876404"/>
+      </node>
+      <node id="2 fallecidos" label="2 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="106.48219756578453" y="139.4934805381977"/>
+      </node>
+      <node id="Motociclista" label="Motociclista">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="69.44556695588759" y="41.60721188388007"/>
+      </node>
+      <node id="1 fallecido" label="1 fallecido">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-95.35982412428615" y="-11.70526904966805"/>
+      </node>
+      <node id="Conductores / acompañantes" label="Conductores / acompañantes">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="234.497784081304" y="14.801779511881332"/>
+      </node>
+      <node id="4 fallecidos" label="4 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="359.12593807048523" y="-11.238932476153188"/>
+      </node>
+      <node id="Conductor / peatón" label="Conductor / peatón">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="130.366682214374" y="-83.68548457504171"/>
+      </node>
+      <node id="Conductor" label="Conductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-46.903233037651574" y="144.6136010300168"/>
+      </node>
+      <node id="Conductor / pasajeros" label="Conductor / pasajeros">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-140.5743827971008" y="226.0181023104223"/>
+      </node>
+      <node id="Motociclista / Conductor" label="Motociclista / Conductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="153.24857833759395" y="46.68630468341664"/>
+      </node>
+      <node id="Conductora" label="Conductora">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="130.83095304740567" y="-347.1909030203795"/>
+      </node>
+      <node id="Motociclistas" label="Motociclistas">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="37.64608515012029" y="126.9105770062429"/>
+      </node>
+      <node id="Peatón" label="Peatón">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-63.08965608920537" y="-127.66174529386791"/>
+      </node>
+      <node id="Conductor /peaton" label="Conductor /peaton">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="53.35134928931319" y="-304.7654908928321"/>
+      </node>
+      <node id="Peatón / Conductor" label="Peatón / Conductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-89.56541030803052" y="-155.21140560402978"/>
+      </node>
+      <node id="Peatón/Conductor" label="Peatón/Conductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="165.80012748922678" y="93.15022325074429"/>
+      </node>
+      <node id="Conductor/Peatón" label="Conductor/Peatón">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="9.148622719240315" y="-62.940175911324985"/>
+      </node>
+      <node id="Motociclista/Peatón" label="Motociclista/Peatón">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="23.161285329942537" y="297.3561862680564"/>
+      </node>
+      <node id="Conductor/Motociclista" label="Conductor/Motociclista">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-44.806675728274215" y="-94.60826415219431"/>
+      </node>
+      <node id="Motociclista/Conductor" label="Motociclista/Conductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="101.84538831771967" y="78.66534948292227"/>
+      </node>
+      <node id="3 fallecidos" label="3 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="282.50359788378245" y="-62.70004398883498"/>
+      </node>
+      <node id="Peatones/Coductor" label="Peatones/Coductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="209.9803326605291" y="214.21980445373578"/>
+      </node>
+      <node id="2 fallecido" label="2 fallecido">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-96.23008600835774" y="232.42394244112427"/>
+      </node>
+      <node id="Conductores/ motociclistas" label="Conductores/ motociclistas">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-193.88117726168142" y="252.8319575787678"/>
+      </node>
+      <node id="Peatones/conductores" label="Peatones/conductores">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-443.80091711522715" y="167.05077585560576"/>
+      </node>
+      <node id="11 fallecidos" label="11 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-429.9081756689786" y="97.16362043956958"/>
+      </node>
+      <node id="15 fallecidos" label="15 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-347.2778515624426" y="159.20580955142353"/>
+      </node>
+      <node id="peatón" label="peatón">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-54.138737063716036" y="58.745388678229716"/>
+      </node>
+      <node id="Motociclista / peatón" label="Motociclista / peatón">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="47.970662547514486" y="-30.888045698621156"/>
+      </node>
+      <node id="Conductor / acompañantes" label="Conductor / acompañantes">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="192.91661613322194" y="-74.33631707446297"/>
+      </node>
+      <node id="Conductor / motociclista" label="Conductor / motociclista">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-4.746039215838318" y="-141.01295058746413"/>
+      </node>
+      <node id="Conductor/peatón" label="Conductor/peatón">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-82.37616072670541" y="-65.70387324513193"/>
+      </node>
+      <node id="Conductor/peatones" label="Conductor/peatones">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="160.5949018532432" y="284.19993289150636"/>
+      </node>
+      <node id="Conductores vehículos pesados" label="Conductores vehículos pesados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-238.01978062937778" y="-23.92617754060614"/>
+      </node>
+      <node id="conductor vehículo/conductor camión" label="conductor vehículo/conductor camión">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="263.3980415238249" y="-319.2251674302338"/>
+      </node>
+      <node id="Comerciante" label="Comerciante">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-235.84864653778854" y="209.74158461487787"/>
+      </node>
+      <node id="Motociclista / conductor" label="Motociclista / conductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-147.8079399820041" y="85.43919472478468"/>
+      </node>
+      <node id="Bebé" label="Bebé">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-68.08251447297806" y="-268.57805956071275"/>
+      </node>
+      <node id="Conductor y pasajeros" label="Conductor y pasajeros">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="226.1276791594991" y="-235.11751482646696"/>
+      </node>
+      <node id="Mujer" label="Mujer">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-174.760187322003" y="-31.994534766929693"/>
+      </node>
+      <node id="Microbús/rastra" label="Microbús/rastra">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="93.61364692076376" y="-329.63981369306447"/>
+      </node>
+      <node id="1 conductor" label="1 conductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="93.83186209447265" y="307.376445150362"/>
+      </node>
+      <node id="Acompañante" label="Acompañante">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-213.05596028356064" y="105.98552196141954"/>
+      </node>
+      <node id="Policía" label="Policía">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-220.35307288754896" y="26.95466449505588"/>
+      </node>
+      <node id="Animal" label="Animal">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-27.231060110041888" y="218.19651141373438"/>
+      </node>
+      <node id="Hombre" label="Hombre">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-21.985926152940273" y="8.207379703580846"/>
+      </node>
+      <node id="Conductor/pasajeros" label="Conductor/pasajeros">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-295.37356334963374" y="-85.37998359286644"/>
+      </node>
+      <node id="Peaton" label="Peaton">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="206.3119501409978" y="-139.30243719755106"/>
+      </node>
+      <node id="Adulto mayor" label="Adulto mayor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-267.01259128965336" y="136.23232432463385"/>
+      </node>
+      <node id="Motociclista/conductor/pasajero" label="Motociclista/conductor/pasajero">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-145.4120798541237" y="-219.87736447407974"/>
+      </node>
+      <node id="No especifica" label="No especifica">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-311.0468617319205" y="-47.65053213200892"/>
+      </node>
+      <node id="Motociclista/Pasajero" label="Motociclista/Pasajero">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-227.12680826588016" y="239.49421000596655"/>
+      </node>
+      <node id="1 peaton" label="1 peaton">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-24.289317735846346" y="78.71767321586933"/>
+      </node>
+      <node id="Conductor/pasajero" label="Conductor/pasajero">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="173.99320531030685" y="-373.3722463296395"/>
+      </node>
+      <node id="Conductor/Pasajero" label="Conductor/Pasajero">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="508.1940540063187" y="-63.17462086248856"/>
+      </node>
+      <node id="Mujer/Conductura" label="Mujer/Conductura">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-14.073953214737355" y="50.17320343961724"/>
+      </node>
+      <node id="Conductores/Acompañantes" label="Conductores/Acompañantes">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-195.9819538975197" y="56.731223925757604"/>
+      </node>
+      <node id="Hombre extranjero" label="Hombre extranjero">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-27.71084109603118" y="-277.3118814199146"/>
+      </node>
+      <node id="Pasajeros" label="Pasajeros">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-385.72444663185695" y="-26.060462577183866"/>
+      </node>
+      <node id="No específica" label="No específica">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-407.21542723510413" y="35.04305057040381"/>
+      </node>
+      <node id="Ciclista/Motorista" label="Ciclista/Motorista">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="207.99300928893325" y="-375.7404537796976"/>
+      </node>
+      <node id="Militar" label="Militar">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-218.82387676483498" y="0.5927695138596203"/>
+      </node>
+      <node id="Peatón/conductor" label="Peatón/conductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-215.33482832126575" y="-148.04859413947716"/>
+      </node>
+      <node id="Peatón/Motociclista" label="Peatón/Motociclista">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-114.43020171075032" y="-326.67950691264616"/>
+      </node>
+      <node id="1 lesionado" label="1 lesionado">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-204.75731626836384" y="-267.5621787650583"/>
+      </node>
+      <node id="Motorista" label="Motorista">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="233.41448280333293" y="-22.41814080742651"/>
+      </node>
+      <node id="Motociclista, conductor" label="Motociclista, conductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-64.94675608870048" y="-177.15702491504442"/>
+      </node>
+      <node id="conductores, pasajerois" label="conductores, pasajerois">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-249.756803375867" y="-231.1565905704038"/>
+      </node>
+      <node id="5 lesionados" label="5 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-288.0129677146123" y="-186.4478731711212"/>
+      </node>
+      <node id="Conductor / motociclistas" label="Conductor / motociclistas">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-302.53498867749056" y="-141.42120876505845"/>
+      </node>
+      <node id="2 lesionados" label="2 lesionados">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-337.38159072698613" y="-92.52198273155157"/>
+      </node>
+      <node id="30 conductores" label="30 conductores">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="350.64164001849633" y="103.75490262860768"/>
+      </node>
+      <node id="5 fallecidos" label="5 fallecidos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="148.65865651930582" y="-152.94991166677454"/>
+      </node>
+      <node id="Peatón / conductor" label="Peatón / conductor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-65.0448799737986" y="-43.52316797609714"/>
+      </node>
+      <node id="Conductor / Ciclista" label="Conductor / Ciclista">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-318.22976236033514" y="33.5793876616311"/>
+      </node>
+      <node id="Empresarios" label="Empresarios">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="358.1706027991845" y="181.56657647337073"/>
+      </node>
+      <node id="Comerciantes" label="Comerciantes">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="300.45379329253166" y="265.3798090197058"/>
+      </node>
+      <node id="Socorrista" label="Socorrista">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-157.73800811546715" y="-55.99000333862844"/>
+      </node>
+      <node id="Mujer, Adulto mayor" label="Mujer, Adulto mayor">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-238.9075736006813" y="81.41912048516755"/>
+      </node>
+      <node id="9 adultos" label="9 adultos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="409.01935819857886" y="46.98136211703855"/>
+      </node>
+      <node id="2 conductores" label="2 conductores">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-309.1245344022521" y="101.01379111306093"/>
+      </node>
+      <node id="3 adultos" label="3 adultos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="324.5642384582073" y="51.75760764234815"/>
+      </node>
+      <node id="Enfermero" label="Enfermero">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-138.3283322628893" y="-82.35970668815"/>
+      </node>
+      <node id="2 adultos" label="2 adultos">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-246.50862954147055" y="184.66092572045793"/>
+      </node>
+      <node id="Niño y Hombre" label="Niño y Hombre">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="271.42345240748676" y="173.6650498618655"/>
+      </node>
+      <node id="2 niños,1 adulto" label="2 niños,1 adulto">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="448.3420973703578" y="-177.95508026355947"/>
+      </node>
+      <node id="Motociclista, busero" label="Motociclista, busero">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="17.074066052824172" y="-289.3712202382021"/>
+      </node>
+      <node id="11 personas" label="11 personas">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-169.94871578399793" y="-192.78775962762353"/>
+      </node>
+      <node id="13 personas" label="13 personas">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-100.18273059122258" y="-237.3586859650522"/>
+      </node>
+      <node id="Motociclista / conductora" label="Motociclista / conductora">
+        <attvalues>
+          <attvalue for="rawSize" value="10"/>
+        </attvalues>
+        <viz:color r="187" g="138" b="255"/>
+        <viz:size value="10"/>
+        <viz:position x="-315.41851156225505" y="-14.214366802292343"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Persona involucrada" target="Fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="1" source="Conductores" target="2 fallecidos" weight="3.310344827586207">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.310344827586207"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="3" source="Motociclista" target="1 fallecido" weight="11.689655172413794">
+        <attvalues>
+          <attvalue for="rawWeight" value="11.689655172413794"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="5" source="Conductores / acompañantes" target="4 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="6" source="Conductor / peatón" target="1 fallecido" weight="5.793103448275862">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.793103448275862"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="7" source="Conductor" target="1 fallecido" weight="12">
+        <attvalues>
+          <attvalue for="rawWeight" value="12"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="8" source="Conductor / pasajeros" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="9" source="Motociclista / Conductor" target="1 fallecido" weight="3.931034482758621">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.931034482758621"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="13" source="Conductores" target="4 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="14" source="Conductora" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="15" source="Motociclistas" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="17" source="Conductores" target="1 fallecido" weight="6.413793103448276">
+        <attvalues>
+          <attvalue for="rawWeight" value="6.413793103448276"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="21" source="Motociclista" target="2 fallecidos" weight="3.6206896551724137">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.6206896551724137"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="22" source="Peatón" target="1 fallecido" weight="6.103448275862069">
+        <attvalues>
+          <attvalue for="rawWeight" value="6.103448275862069"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="23" source="Conductor" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="24" source="Motociclista / Conductor" target="2 fallecidos" weight="3.310344827586207">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.310344827586207"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="26" source="Conductor /peaton" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="28" source="Peatón / Conductor" target="1 fallecido" weight="3.310344827586207">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.310344827586207"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="31" source="Peatón/Conductor" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="33" source="Conductor/Peatón" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="38" source="Motociclista/Peatón" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="39" source="Conductor/Motociclista" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="41" source="Motociclista/Conductor" target="1 fallecido" weight="3.310344827586207">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.310344827586207"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="42" source="Peatón/Conductor" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="48" source="Motociclista / Conductor" target="3 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="49" source="Peatones/Coductor" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="51" source="Conductores" target="3 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="55" source="Conductores" target="2 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="56" source="Conductores/ motociclistas" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="58" source="Peatones/conductores" target="11 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="59" source="Peatones/conductores" target="15 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="60" source="peatón" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="67" source="Motociclista / peatón" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="68" source="Conductor" target="3 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="70" source="Conductor / acompañantes" target="3 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="76" source="Conductor / motociclista" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="82" source="Conductor/peatón" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="84" source="Conductor/peatones" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="85" source="Conductores vehículos pesados" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="86" source="conductor vehículo/conductor camión" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="87" source="Comerciante" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="90" source="Motociclista / conductor" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="91" source="Bebé" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="95" source="Conductor y pasajeros" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="97" source="Mujer" target="1 fallecido" weight="4.551724137931035">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.551724137931035"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="100" source="Microbús/rastra" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="102" source="Conductor y pasajeros" target="3 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="107" source="1 conductor" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="108" source="Acompañante" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="112" source="Policía" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="116" source="Conductor" target="Animal" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="117" source="Hombre" target="1 fallecido" weight="3.931034482758621">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.931034482758621"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="121" source="Conductor/pasajeros" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="122" source="Peaton" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="124" source="Adulto mayor" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="125" source="Motociclista/conductor/pasajero" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="126" source="Motociclista" target="3 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="129" source="Peaton" target="3 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="131" source="Motociclistas" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="132" source="No especifica" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="133" source="Motociclista/Pasajero" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="134" source="1 peaton" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="136" source="Conductor/pasajero" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="137" source="Conductor/Pasajero" target="3 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="139" source="Mujer/Conductura" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="141" source="Conductores/Acompañantes" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="142" source="Hombre extranjero" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="144" source="Pasajeros" target="No específica" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="145" source="Ciclista/Motorista" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="151" source="Militar" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="152" source="Peatón/conductor" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="153" source="Peatón/Motociclista" target="1 lesionado" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="154" source="Motociclista/Conductor" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="155" source="Conductor / acompañantes" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="162" source="Motorista" target="4 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="163" source="Motociclista, conductor" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="166" source="conductores, pasajerois" target="5 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="167" source="Conductor / motociclistas" target="2 lesionados" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="169" source="30 conductores" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="170" source="Conductor / peatón" target="5 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="171" source="Peatón / conductor" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="173" source="Motorista" target="1 fallecido" weight="3.310344827586207">
+        <attvalues>
+          <attvalue for="rawWeight" value="3.310344827586207"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="174" source="Conductor / Ciclista" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="176" source="Empresarios" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="177" source="Comerciantes" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="179" source="Socorrista" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="180" source="Mujer, Adulto mayor" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="181" source="9 adultos" target="4 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="183" source="2 conductores" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="184" source="3 adultos" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="186" source="Enfermero" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="194" source="2 adultos" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="197" source="Niño y Hombre" target="2 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="198" source="3 adultos" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="202" source="2 niños,1 adulto" target="3 fallecidos" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="205" source="Motociclista, busero" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="213" source="Conductores / acompañantes" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="217" source="11 personas" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="223" source="13 personas" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="227" source="Motociclista / conductora" target="1 fallecido" weight="3">
+        <attvalues>
+          <attvalue for="rawWeight" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
